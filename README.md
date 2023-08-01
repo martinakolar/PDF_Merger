@@ -16,7 +16,9 @@
 
 ★ Paste the **complete** folder path where your PDF's are ```[e.g. C:\Users\user\Documents]```
 
-★ A new PDF file ```merged_pdfs.pdf``` will be added to the same folder!
+★ Type the name you want the merged file to be called
+
+★ A new PDF file will be added to the same folder!
 
 
 ## Contact
